@@ -1,0 +1,35 @@
+---
+title: "Lecture 16 - Writing Functions"
+output: html_document
+---
+
+#Iteration! 
+
+```{r}
+library(tidyverse)
+set.seed(1)
+```
+
+```{r}
+#take a sample from a normal distribution and computes the vector of Z scores 
+x = rnorm(25, mean = 5, sd = 3)
+(x - mean(x)) / sd(x)
+```
+
+```{r}
+```
+
+```{r}
+```
+
+```{r}
+```
+
+```{r}
+```
+
+```{r}
+```
+
+```{r}
+```
